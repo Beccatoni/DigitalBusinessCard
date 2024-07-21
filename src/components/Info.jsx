@@ -9,7 +9,7 @@ import Footer from "./Footer";
 
 const Info = () => {
   return (
-    <div className="h-[88%] w-[45%] self-center bg-[#1A1B21] rounded-lg relative ">
+    <div className="h-[88%] md: w-[41%] self-center bg-[#1A1B21] rounded-lg relative ">
       <img src={myPic} alt="" className="rounded-t-lg h-[35%] w-full" />
       <div className="flex flex-col items-center gap-2 mt-5">
         <h1 className="font-bold text-2xl text-white">Rebecca Mutoni</h1>
